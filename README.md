@@ -4,7 +4,7 @@
 
 1- Clone the repository and proceed with steps mentioned below
 ```sh
-git clone https://github.com/abood-74/Banao--Task1
+git clone https://github.com/abood-74/Banao--Task1.git
 ```
 
 
